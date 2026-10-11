@@ -1,0 +1,19 @@
+{
+  "experiment": "B1_scratch",
+  "mode": "scratch",
+  "augmentation": false,
+  "architecture": "resnet18",
+  "trainable_parameters": 11181642,
+  "total_parameters": 11181642,
+  "learning_rates": [
+    0.0001
+  ],
+  "epochs_ran": 6,
+  "best_epoch": 2,
+  "duration_seconds": 60.811644077301025,
+  "train_accuracy": 0.4725829725829726,
+  "validation_accuracy": 0.38047138047138046,
+  "validation_loss": 1.869184500841982,
+  "test_macro_f1": 0.3474353719828509,
+  "test_accuracy": 0.3926174496644295
+}

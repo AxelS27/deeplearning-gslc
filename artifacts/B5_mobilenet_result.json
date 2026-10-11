@@ -1,0 +1,20 @@
+{
+  "experiment": "B5_mobilenet",
+  "mode": "finetune",
+  "augmentation": false,
+  "architecture": "mobilenet_v3_small",
+  "trainable_parameters": 657546,
+  "total_parameters": 1528106,
+  "learning_rates": [
+    0.0001,
+    0.001
+  ],
+  "epochs_ran": 13,
+  "best_epoch": 9,
+  "duration_seconds": 75.16828060150146,
+  "train_accuracy": 0.9942279942279942,
+  "validation_accuracy": 0.9090909090909091,
+  "validation_loss": 0.27080336980747455,
+  "test_macro_f1": 0.9268358911381427,
+  "test_accuracy": 0.9261744966442953
+}

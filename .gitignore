@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Datasets & Large Model Checkpoints
+data/
+*.pt
+*.pth
+*.tar.gz
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Editor
+.vscode/
+

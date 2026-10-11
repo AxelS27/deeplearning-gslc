@@ -1,0 +1,20 @@
+{
+  "experiment": "B3_finetune",
+  "mode": "finetune",
+  "augmentation": false,
+  "architecture": "resnet18",
+  "trainable_parameters": 8398858,
+  "total_parameters": 11181642,
+  "learning_rates": [
+    0.0001,
+    0.001
+  ],
+  "epochs_ran": 8,
+  "best_epoch": 4,
+  "duration_seconds": 55.09068298339844,
+  "train_accuracy": 1.0,
+  "validation_accuracy": 0.9528619528619529,
+  "validation_loss": 0.1812779438189585,
+  "test_macro_f1": 0.943205076981144,
+  "test_accuracy": 0.9429530201342282
+}

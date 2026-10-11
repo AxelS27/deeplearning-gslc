@@ -1,0 +1,172 @@
+[
+  {
+    "test_index": 0,
+    "record": [
+      0,
+      1
+    ],
+    "ground_truth": "Abyssinian",
+    "prediction": "Bengal",
+    "confidence": 0.9313766956329346
+  },
+  {
+    "test_index": 18,
+    "record": [
+      0,
+      153
+    ],
+    "ground_truth": "Basset Hound",
+    "prediction": "Beagle",
+    "confidence": 0.524949312210083
+  },
+  {
+    "test_index": 24,
+    "record": [
+      0,
+      178
+    ],
+    "ground_truth": "Basset Hound",
+    "prediction": "Beagle",
+    "confidence": 0.7854347229003906
+  },
+  {
+    "test_index": 82,
+    "record": [
+      0,
+      1907
+    ],
+    "ground_truth": "American Bulldog",
+    "prediction": "Boxer",
+    "confidence": 0.3876069486141205
+  },
+  {
+    "test_index": 95,
+    "record": [
+      0,
+      1983
+    ],
+    "ground_truth": "American Pit Bull Terrier",
+    "prediction": "Boxer",
+    "confidence": 0.6650855541229248
+  },
+  {
+    "test_index": 110,
+    "record": [
+      0,
+      2070
+    ],
+    "ground_truth": "Beagle",
+    "prediction": "Basset Hound",
+    "confidence": 0.743990957736969
+  },
+  {
+    "test_index": 132,
+    "record": [
+      0,
+      2288
+    ],
+    "ground_truth": "Boxer",
+    "prediction": "American Pit Bull Terrier",
+    "confidence": 0.6007952094078064
+  },
+  {
+    "test_index": 140,
+    "record": [
+      1,
+      16
+    ],
+    "ground_truth": "Abyssinian",
+    "prediction": "Bengal",
+    "confidence": 0.463274210691452
+  },
+  {
+    "test_index": 146,
+    "record": [
+      1,
+      57
+    ],
+    "ground_truth": "Abyssinian",
+    "prediction": "Bengal",
+    "confidence": 0.6265154480934143
+  },
+  {
+    "test_index": 151,
+    "record": [
+      1,
+      87
+    ],
+    "ground_truth": "Abyssinian",
+    "prediction": "Bengal",
+    "confidence": 0.5448309779167175
+  },
+  {
+    "test_index": 164,
+    "record": [
+      1,
+      162
+    ],
+    "ground_truth": "American Bulldog",
+    "prediction": "Boxer",
+    "confidence": 0.7967435717582703
+  },
+  {
+    "test_index": 165,
+    "record": [
+      1,
+      163
+    ],
+    "ground_truth": "American Bulldog",
+    "prediction": "Beagle",
+    "confidence": 0.7331274747848511
+  },
+  {
+    "test_index": 170,
+    "record": [
+      1,
+      222
+    ],
+    "ground_truth": "American Pit Bull Terrier",
+    "prediction": "American Bulldog",
+    "confidence": 0.8011912107467651
+  },
+  {
+    "test_index": 177,
+    "record": [
+      1,
+      262
+    ],
+    "ground_truth": "American Pit Bull Terrier",
+    "prediction": "American Bulldog",
+    "confidence": 0.78273606300354
+  },
+  {
+    "test_index": 196,
+    "record": [
+      1,
+      401
+    ],
+    "ground_truth": "Beagle",
+    "prediction": "American Pit Bull Terrier",
+    "confidence": 0.8939490914344788
+  },
+  {
+    "test_index": 266,
+    "record": [
+      1,
+      793
+    ],
+    "ground_truth": "Boxer",
+    "prediction": "American Bulldog",
+    "confidence": 0.9271640181541443
+  },
+  {
+    "test_index": 282,
+    "record": [
+      1,
+      891
+    ],
+    "ground_truth": "British Shorthair",
+    "prediction": "Bombay",
+    "confidence": 0.8102502822875977
+  }
+]
