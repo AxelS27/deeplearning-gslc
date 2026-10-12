@@ -10,7 +10,7 @@
   ],
   "epochs_ran": 18,
   "best_epoch": 18,
-  "duration_seconds": 116.9423840045929,
+  "duration_seconds": 122.31449127197266,
   "train_accuracy": 0.9920634920634921,
   "validation_accuracy": 0.9562289562289562,
   "validation_loss": 0.19840784714579182,
